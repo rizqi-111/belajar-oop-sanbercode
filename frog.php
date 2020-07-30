@@ -10,4 +10,5 @@ class Frog extends Animal {
       echo "hop hop<br>";
   }
 }
+
 ?>
